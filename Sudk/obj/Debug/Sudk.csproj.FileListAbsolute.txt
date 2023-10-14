@@ -1,0 +1,10 @@
+D:\Sudk\bin\Debug\Sudk.exe.config
+D:\Sudk\bin\Debug\Sudk.exe
+D:\Sudk\bin\Debug\Sudk.pdb
+D:\Sudk\obj\Debug\Sudk.csproj.AssemblyReference.cache
+D:\Sudk\obj\Debug\Sudk.Form1.resources
+D:\Sudk\obj\Debug\Sudk.Properties.Resources.resources
+D:\Sudk\obj\Debug\Sudk.csproj.GenerateResource.cache
+D:\Sudk\obj\Debug\Sudk.csproj.CoreCompileInputs.cache
+D:\Sudk\obj\Debug\Sudk.exe
+D:\Sudk\obj\Debug\Sudk.pdb
